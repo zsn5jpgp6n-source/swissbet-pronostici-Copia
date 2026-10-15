@@ -1,0 +1,6 @@
+SwissBet - Collegamento partite
+1. Registrati su https://www.football-data.org/client/register e ricevi il token.
+2. Su Netlify, Site configuration > Environment variables, crea FOOTBALL_DATA_TOKEN con il token. Non incollarlo nel codice o in chat.
+3. Carica lo ZIP su Netlify con deploy manuale, oppure collega il repository per il deploy delle Functions (se il deploy ZIP non costruisce le Functions, usa Git).
+4. Apri la sezione Partite reali e seleziona la data.
+Il piano gratuito copre soltanto alcune competizioni; non contiene quote Swisslos.
