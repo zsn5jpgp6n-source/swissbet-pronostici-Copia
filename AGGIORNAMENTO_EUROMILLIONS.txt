@@ -1,0 +1,5 @@
+SWISSBET PRO 4.0
+Nuova scheda EuroMillions: generazione, salvataggio locale, confronto manuale con risultati ufficiali.
+Il collegamento automatico alle estrazioni NON è attivo: è necessaria una fonte autorizzata/API verificata.
+Per aggiornare GitHub Pages: carica i file estratti nella root del repository, conservando un backup della versione precedente.
+Non caricare lo ZIP come unico file del sito.
